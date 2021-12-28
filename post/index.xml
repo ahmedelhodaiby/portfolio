@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ahmed El-Hodaiby</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on Ahmed El-Hodaiby</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News Summarizer and Translator</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>You can check the notebook here
+Project summary News Summarizer and Translator from English to Arabic, that can scrape news articles from almost any international news website. Project was made using pre-trained Deep Learning models from Hugging Face.
+Motivation Facilitate access to international news to Arabic readers. Inspired by millions of Arabs who can&amp;rsquo;t read English and want to be aware of international politics, events, etc&amp;hellip;
+Dataset We used large pre-trained models already fine tuned using huge datasets, so we didn&amp;rsquo;t need to further train them.</description>
+    </item>
+    
+  </channel>
+</rss>
