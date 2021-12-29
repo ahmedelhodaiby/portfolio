@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/</loc>
+    <loc>https://ahmedelhodaiby.github.io/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/post/project-1/</loc>
+    <loc>https://ahmedelhodaiby.github.io/post/project-1/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/post/</loc>
+    <loc>https://ahmedelhodaiby.github.io/post/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/about/</loc>
+    <loc>https://ahmedelhodaiby.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/categories/</loc>
+    <loc>https://ahmedelhodaiby.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/contact/</loc>
+    <loc>https://ahmedelhodaiby.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/resume/</loc>
+    <loc>https://ahmedelhodaiby.github.io/resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ahmedelhodaiby.github.io/portfolio/tags/</loc>
+    <loc>https://ahmedelhodaiby.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
