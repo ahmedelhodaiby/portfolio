@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed El-Hodaiby</title>
+    <link>https://ahmedelhodaiby.github.io/portfolio/</link>
+    <description>Recent content on Ahmed El-Hodaiby</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmedelhodaiby.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News Summarizer and Translator</title>
+      <link>https://ahmedelhodaiby.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmedelhodaiby.github.io/portfolio/post/project-1/</guid>
+      <description>You can check the notebook here
+Project summary News Summarizer and Translator from English to Arabic, that can scrape news articles from almost any international news website. Project was made using pre-trained Deep Learning models from Hugging Face.
+Motivation Facilitate access to international news to Arabic readers. Inspired by millions of Arabs who can&amp;rsquo;t read English and want to be aware of international politics, events, etc&amp;hellip;
+Dataset We used large pre-trained models already fine tuned using huge datasets, so we didn&amp;rsquo;t need to further train them.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ahmedelhodaiby.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmedelhodaiby.github.io/portfolio/contact/</guid>
+      <description>Feel free to say Hi! You can contact me directly through:
+         LinkedIn https://www.linkedin.com/in/ahmedelhodaiby   E-mail ahmedelhodaiby@gmail.com    Or drop me a message here and I will get back to you as soon as I can. Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ahmedelhodaiby.github.io/portfolio/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmedelhodaiby.github.io/portfolio/resume/</guid>
+      <description>Certificates    Certificate Organization Date     AWS Certified Machine Learning – Specialty Amazon Web Services (AWS) Dec 2021 .   Data Scientist Professional Certificate DataCamp Sep 2021   Business Intelligence Diploma ITI Jan 2021    Experience          Computer Vision Intern (Remote) (Oct 2021 – Present)    VRapeutic, Inc.
+Building a lightweight RGB-based depth estimation model for 3D Hand pose estimation.</description>
+    </item>
+    
+  </channel>
+</rss>
